@@ -1,0 +1,8 @@
+just some notes so i can remeber things
+
+Vars:
+    charactarArrayLimit(cAL) = 6969 ;)
+
+TODO:
+    implement sdl
+    make code awesome
